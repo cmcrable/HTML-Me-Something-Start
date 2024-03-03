@@ -20,11 +20,11 @@ li.navList {
 }
 
 .funParagraph {
-    color: blue
+    color: green;
 }
 
 #mainHeading {
     background-image: linear-gradient(to bottom right, black, white);
-    color: white;
+    color: red;
 }
 
