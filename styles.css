@@ -1,1 +1,30 @@
 /* Write your CSS here! */
+body {
+    margin: 8px;
+    display: block;
+    background-image: url(/images/desktopbgimg1.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h2 {
+    text-shadow: 1px 1px;
+    color: rgb(156, 34, 34);
+}
+
+li.navList {
+    display: inline;
+    padding: 50px;
+    font-size: 18px;
+}
+
+.funParagraph {
+    color: blue
+}
+
+#mainHeading {
+    background-image: linear-gradient(to bottom right, black, white);
+    color: white;
+}
+
